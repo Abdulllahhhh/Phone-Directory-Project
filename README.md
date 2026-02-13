@@ -9,3 +9,6 @@ Includes search by number, search by name, and adding new contact.
 
 # Language Used
 Python
+
+## Source Code
+[View the Python file](phone_directory.py)
